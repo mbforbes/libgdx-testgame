@@ -1,0 +1,2 @@
+# Module com.mortrag.lsb.testgame.GwtDefinition
+# RPC service class, partial path of RPC policy file

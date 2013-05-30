@@ -1,0 +1,9 @@
+d:war/
+b:.DS_Store
+d:images
+i:images/bucket.png
+i:images/drop.png
+i:images/libgdx.png
+d:sound
+a:sound/drop.wav
+a:sound/rain.mp3
